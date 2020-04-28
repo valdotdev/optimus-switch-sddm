@@ -1,5 +1,8 @@
-##This is my own fork of dglt1's optimus-switch scripts for use with my Dell XPS 15 7590 laptop
-### Original README below:
+# This is my own fork of dglt1's optimus-switch scripts for use with my Dell XPS 15 7590 laptop
+## Original README below:
+
+~~~
+~~~
 
 # optimus-switch for SDDM
 ## Introduction
