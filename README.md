@@ -1,3 +1,5 @@
+#This is my own fork of dglt1's optimus-switch scripts for use with my Dell XPS 15 7590 laptop
+
 # optimus-switch for SDDM
 ## Introduction
 If you're using LightDM or GDM, you can get to those repo's here: https://github.com/dglt1. This includes an install script to remove conflicting configurations, blacklists, loading of drivers/modules.
