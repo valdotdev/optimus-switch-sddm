@@ -35,7 +35,7 @@ fi
 
 if [ -d "/sys/bus/pci/devices/0000:01:00.0" ]
 then
-  #echo '\_SB.PCI0.PEG0.PEGP._OFF' > /proc/acpi/call 
+  echo '\_SB.PCI0.PEG0.PEGP._OFF' > /proc/acpi/call 
   #echo -n 1 > '/sys/bus/pci/devices/0000:01:00.0/remove' 
 
 fi
